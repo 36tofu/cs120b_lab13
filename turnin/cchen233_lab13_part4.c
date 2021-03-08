@@ -1,12 +1,13 @@
-
-/*	Author: lab
- *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: PORTB = tmpBT1;Lab #  Exercise #
- *	Exercise Description: [optional - include for your own benefit]
+/* Author:Christopher Chen
+ * Partner(s) Name (if applicable):  
+ * Lab Section:21
+ * Assignment: Lab #13  Exercise #4
+ * Exercise Description: [optional - include for your own benefit]
  *
- *	I acknowledge all content contained herein, excluding template or example
- *	code, is my own original work.
+ * I acknowledge all content contained herein, excluding template or example
+ * code, is my own original work.
+ *
+ *  Demo Link: https://youtu.be/bFkk_tgIJw4
  */
 #include <avr/io.h>
 #include <avr/interrupt.h>
